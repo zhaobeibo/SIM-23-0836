@@ -6,7 +6,6 @@ Currently, we do not have a macro or a package available. However, we plan to ut
 
 Data Generation: DataGeneration.R
 
-Subgroup identification method
 Penalized Regression: PenalizedRegression.R
 Modified Covariate: ModifiedCovariate.R
 Classification and Regression trees: CART.R
